@@ -27,3 +27,11 @@
  Scikit-plot_tree's function then depicted the decision tree, noting the splits, gini impurity, sample count, and predicted class at each node. One of the main benefits of decision trees is that this helps the model be understood and easy to interpret. 
  
  Many fields—including marketing segmentation, risk forecasting, loan approval systems, fraud detection, and medical diagnosis—can use this assignment. Decision Simple, understandable, and suited for classification issues, trees abound.
+
+
+ #OUTPUT:
+
+
+  ![img](https://github.com/user-attachments/assets/bb8fe8d6-9cc3-49fa-8712-d3f54ccb0305)
+  ![img](https://github.com/user-attachments/assets/73841da1-bc1a-446a-9177-de02f16d8e27)
+  ![img](https://github.com/user-attachments/assets/5344f77a-a122-4af6-8b9c-f6502c7d181d)
