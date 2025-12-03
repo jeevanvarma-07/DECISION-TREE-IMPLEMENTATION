@@ -32,6 +32,8 @@
  #OUTPUT:
 
 
-  ![img](https://github.com/user-attachments/assets/bb8fe8d6-9cc3-49fa-8712-d3f54ccb0305)
-  ![img](https://github.com/user-attachments/assets/73841da1-bc1a-446a-9177-de02f16d8e27)
-  ![img](https://github.com/user-attachments/assets/5344f77a-a122-4af6-8b9c-f6502c7d181d)
+   <img width="1920" height="942" alt="Image" src="https://github.com/user-attachments/assets/34d8d26d-4131-4a6c-8e94-3322df263773" />
+   
+   <img width="1920" height="1016" alt="Image" src="https://github.com/user-attachments/assets/e71a5966-652e-4f9d-879f-c286a2870039" />
+   
+   <img width="1915" height="1009" alt="Image" src="https://github.com/user-attachments/assets/5eb70ce3-be0e-4e94-9906-ddb74aca61e7" />
